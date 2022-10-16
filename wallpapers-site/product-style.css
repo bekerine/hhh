@@ -173,13 +173,13 @@ footer{
 
 .details{
   margin-top: 20px;
-  margin-left: 200px;
+  align-items: center;
 }
 
 span{
   display: block;
   margin-bottom: 10px;
-  margin-left: 200px;
+  align-items: center;
 }
 
 /* product end */
