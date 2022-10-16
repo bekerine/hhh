@@ -159,9 +159,12 @@ footer{
 
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 700px) {
   .cards img{
   width: 100%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
   /* height: 500px; */
   }
   }
