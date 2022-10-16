@@ -151,7 +151,7 @@ footer{
   width: 100%;
 }
 
-.card img{
+.cardimg{
   width: 30%;
   display: block;
   margin-right: auto;
@@ -160,7 +160,7 @@ footer{
 }
 
 @media screen and (max-width: 500px) {
-  .cards {
+  .cardsimg {
     width: 450px;
     display: block;
     margin-right: auto;
