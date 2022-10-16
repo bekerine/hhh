@@ -161,7 +161,7 @@ footer{
 
 @media screen and (max-width: 500px) {
   .cards img{
-    width: 70%;
+    width: 450px;
     display: block;
     margin-right: auto;
     margin-left: auto;
