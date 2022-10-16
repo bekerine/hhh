@@ -194,6 +194,13 @@ footer{
 
 .details{
   margin-top: 20px;
+  margin-left: 30%;
+}
+
+@media screen and (max-width: 500px) {
+  .details {
+    margin-left: 10px;
+  }
 }
 
 span{
