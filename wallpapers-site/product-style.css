@@ -171,10 +171,15 @@ footer{
 }
 
 .container {
-  padding: 2px 16px;
-  height: 100%;
+  margin-top: 10px;
+  width: 100%;
   /* overflow-y: scroll; */
   /* overflow-x: hidden; */
+}
+
+.container img{
+  margin-left: 0;
+  margin-right: 0;
 }
 
 /* audio{
