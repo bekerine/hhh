@@ -158,9 +158,9 @@ footer{
 
 .container {
   padding: 2px 16px;
-  /* height: 200px; */
+  height: 100%;
   /* overflow-y: scroll; */
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
 }
 
 audio{
