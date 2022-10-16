@@ -152,6 +152,14 @@ footer{
   align-items: center;
 }
 
+.card img{
+  width: 30%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
 @media screen and (max-width: 600px) {
   .cards img{
   width: 100%;
