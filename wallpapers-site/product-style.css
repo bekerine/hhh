@@ -158,8 +158,8 @@ footer{
 
 .container {
   padding: 2px 16px;
-  height: 200px;
-  overflow-y: scroll;
+  /* height: 200px; */
+  /* overflow-y: scroll; */
   overflow-x: hidden;
 }
 
