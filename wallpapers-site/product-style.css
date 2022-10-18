@@ -219,7 +219,7 @@ span{
 
 @media screen and (max-width: 500px) {
   .Ads {
-    width: 100%;
+    width: 200%;
     margin-top: 10px;
   }
 }
