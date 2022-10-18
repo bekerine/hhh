@@ -217,4 +217,11 @@ span{
   width: 100%;
 }
 
+@media screen and (max-width: 500px) {
+  .Ads {
+    width: 100%;
+    margin-top: 10px;
+  }
+}
+
 /* product end */
